@@ -1,6 +1,6 @@
 * name: Joyce Yom 
 
-* photo: ![JY](/selfie.JPG)
+* photo: ![JY](selfie.jpg)
 
 * graduating year: May 2018 
 
